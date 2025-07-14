@@ -9,7 +9,7 @@
 - Git 설치: [https://git-scm.com/](https://git-scm.com/)
 - Node.js 및 npm 설치: [https://nodejs.org/](https://nodejs.org/)
 
-```bash
+```powershell
 # 설치 확인
 git --version
 node -v
