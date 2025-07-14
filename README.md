@@ -20,8 +20,8 @@ npm -v
 bash
 복사
 편집
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/es1206/spAIk_client.git
+cd spAIk_client
 📦 의존성 설치
 React 프로젝트를 실행하기 위해 필요한 패키지를 설치합니다:
 
